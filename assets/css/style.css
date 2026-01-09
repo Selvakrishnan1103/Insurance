@@ -3447,3 +3447,24 @@ to {
 }
 
 /* Preloader -------------------------------------------------------*/
+
+
+.justify-center-all{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.align-neat{
+    display: flex;
+    gap: 10px;
+}
+@media(max-width:768px){
+    .justify-center-all{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+}

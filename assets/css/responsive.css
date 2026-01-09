@@ -882,7 +882,7 @@ h5 {font-size: 16px; line-height: 24px;}
 .navbar-collapse {top: 60px;}
 .banner-con .banner_content {padding: 40px 0;}
 .banner-con .banner_content h1 {margin-bottom: 8px;}
-.banner-con .banner_content .all_button {width: 130px; padding: 12px;}
+.banner-con .banner_content .all_button {width: 140px; padding: 12px;}
 .benefit-con {padding: 35px 0;}
 .benefit-con .benefit_content h2 {margin-bottom: 6px;}
 .benefit-con .benefit_wrapper ul li .icon {width: 78px; height: 78px; line-height: 78px; margin-bottom: 10px; display: inline-block;}
@@ -1032,7 +1032,7 @@ h5 {font-size: 16px; line-height: 24px;}
 .homebanner-con {padding: 40px 0 70px;}
 .homebanner-con .banner_content {padding: 0; margin-bottom: 50px;}
 .homebanner-con .banner_content h1 {margin-bottom: 8px;}
-.homebanner-con .banner_content .all_button {width: 130px; padding: 13px;}
+.homebanner-con .banner_content .all_button {width: 140px; padding: 13px;}
 .homebanner-con .banner_wrapper .video-icon {height: 60px; width: 60px; line-height: 60px;}
 .homebanner-con .banner_wrapper .video-icon img {width: 12px;}
 .homeservice-con {padding: 40px 0;}
@@ -1074,7 +1074,7 @@ h5 {font-size: 16px; line-height: 24px;}
 .travelbanner-con {padding: 40px 0;}
 .travelbanner-con .banner_content {padding: 0; margin-bottom: 25px;}
 .travelbanner-con .banner_content h1 {margin-bottom: 8px;}
-.travelbanner-con .banner_content .all_button {width: 130px; padding: 13px;}
+.travelbanner-con .banner_content .all_button {width: 140px; padding: 13px;}
 .travelbanner-con .banner_wrapper .banner-image img {width: 50%;}
 .travelbanner-con .banner_wrapper .banner-image::before {width: 160px; height: 160px; right: 80px;}
 .travelbanner-con .banner_wrapper .box {left: 60px; bottom: 80px; width: 210px; height: 52px; padding: 6px 8px;}
